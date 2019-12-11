@@ -23,7 +23,7 @@ include('session_renter.php');
       axios.get('https://maps.googleapis.com/maps/api/geocode/json',{
         params:{
           address:location,
-          key:'AIzaSyCCuoe93lQkgRaC7FB8fMOr_g1dmMRwKng'
+          key:'A**************************g'
         }
       })
       .then(function(response){
